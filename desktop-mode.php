@@ -72,6 +72,7 @@ require_once DESKTOP_MODE_DIR . 'includes/window-chrome.php';
 require_once DESKTOP_MODE_DIR . 'includes/window-notices.php';
 require_once DESKTOP_MODE_DIR . 'includes/wallpapers.php';
 require_once DESKTOP_MODE_DIR . 'includes/widgets/heartbeat.php';
+require_once DESKTOP_MODE_DIR . 'includes/widgets/wapuu.php';
 require_once DESKTOP_MODE_DIR . 'includes/render.php';
 require_once DESKTOP_MODE_DIR . 'includes/extended-options.php';
 require_once DESKTOP_MODE_DIR . 'includes/oauth-relay.php';
